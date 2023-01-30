@@ -159,7 +159,7 @@ for (item of buttons) {
 ```
 
 ## OUTPUT:
-![output](./calcout.png)
+![output](./calcout.jpeg)
 
 ## Result:
 The program for designing a simple calculator using Javascript is executed successfully.
