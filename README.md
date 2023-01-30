@@ -88,6 +88,7 @@ Publish the website in the given URL. Validate the HTML and CSS code.
    
 </html>
 ```
+```
 .container{
     text-align: center;
     margin-top:23px;
@@ -127,6 +128,7 @@ h1{
     font-size: 28px;
     font-family: Arial, Helvetica, sans-serif;
 }
+```
 ```
 let screen = document.getElementById('screen');
 buttons = document.querySelectorAll('button');
